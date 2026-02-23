@@ -594,5 +594,5 @@ Please, make sure all steps are using **the same** python version and that you h
 [License](LICENSE.txt)
 
 
-Github Repo : https://github.com/ashishkumar070/build-ml-pipeline-for-short-term-rental-prices
-Weight and Biases : https://wandb.ai/ashish-kumar070-na
+Github Repo : https://github.com/ashishkumar070/nd0821-c2-build-model-workflow
+Weight and Biases : https://wandb.ai/ashish-kumar070-na/nyc_airbnb
